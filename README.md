@@ -11,14 +11,14 @@ Line Chart: Tracks growth over time, illustrating trends in the addition of new 
 Geographical Distribution:
 
 A world map showing the total number of movies and TV shows by country, with a significant number in the United States (2,032), followed by much smaller numbers in other countries.
+
 Content Distribution:
-
 A pie chart illustrating the distribution between movies (4,265 titles) and TV shows, emphasizing the larger volume of movies.
+
 Content Ratings Distribution:
-
 A bar chart showing the distribution of content by ratings, where TV-MA and TV-14 have the highest counts.
-Top Genres:
 
+Top Genres:
 A bar chart listing the top 10 genres, highlighting documentaries, stand-up comedy, dramas, independent movies, and children & family movies as the most common.
 Annual Content Addition:
 
