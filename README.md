@@ -1,6 +1,9 @@
 # Netflix-data-analysis
 
-The Tableau dashboard provides a comprehensive overview of data related to movies and tv shows since 1925- 2020 titled and available on Netflix. Here’s a detailed description of the dashboard and the technical charts used:
+The Tableau dashboard provides a comprehensive overview of data related to movies and tv shows since 1925- 2020 titled and available on Netflix. 
+to look at the complete dynamic dashboard please visit: https://public.tableau.com/shared/SJKH6QPN5?:display_count=n&:origin=viz_share_link 
+
+Here’s a detailed description of the dashboard and the technical charts used:
 
 Technical Charts Used:
 
